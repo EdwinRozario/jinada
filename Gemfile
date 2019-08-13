@@ -19,7 +19,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
-  gem 'boost-styles', git: 'https://github.com/hapiben/boost-styles.git', require: false
+  # gem 'boost-styles', git: 'https://github.com/hapiben/boost-styles.git', require: false
   gem 'dotenv-rails'
   gem 'faker'
   gem 'pry-rails', '~> 0.3.6'
